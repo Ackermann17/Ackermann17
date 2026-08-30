@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Imron Saputro 👋</h1>
 
-<!--
-**Ackermann17/Ackermann17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Android Developer | Reverse Engineering Enthusiast | Cybersecurity Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 About Me
+Berangkat dari latar belakang front desk, sekarang saya mendalami dunia development Android dan reverse engineering secara mandiri. Fokus saya saat ini adalah memahami cara kerja aplikasi Android dari sisi internal — mulai dari modifikasi APK, Mock Location API, hingga eksperimen dengan Xposed/LSPosed module.
+
+### 🔭 Currently Working On
+- **Custom Fake GPS App** — mengembangkan dua varian: versi *systemless* (non-root, memakai Mock Location API resmi + Maps API) dan versi berbasis modul **LSPosed** untuk device yang sudah di-root.
+- **Absensi App** — sistem manajemen presensi digital dengan QR Code scanning, validasi karyawan, dan monitoring kehadiran.
+
+### 🛠️ Tech Stack
+`Java` `Android SDK` `Laravel / Blade` `QR Code Integration` `Xposed/LSPosed Framework`
+
+### 📌 Featured Repositories
+- [**FakeGPS**](https://github.com/Ackermann17/FakeGPS) — pengembangan aplikasi mock location Android, eksplorasi Mock Location API & LSPosed module.
+- [**absensi-app**](https://github.com/Ackermann17/absensi-app) — sistem absensi digital berbasis QR Code untuk manajemen kehadiran karyawan.
+
+### 🌱 Learning & Sharing
+Saya juga aktif membagikan materi edukasi seputar reverse engineering & keamanan siber di Instagram [@oimassimon](https://instagram.com/oimassimon)
+
+### 📫 Connect
+- Instagram: [@oimassimon](https://instagram.com/oimassimon)
+
+---
+<p align="center"><i>Selalu terbuka untuk kolaborasi proyek Android & keamanan siber.</i></p>
